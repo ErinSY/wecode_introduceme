@@ -31,8 +31,10 @@
   text-align: center;
   line-height: 100px;
 }
-.menubar h1{
+.menubar li{
   line-height: 150px;
+  list-style:none;
+  font-size: 30px;
 }
 /* .menubar .about:hover{
   font-size: 0;
